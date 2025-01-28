@@ -1,6 +1,19 @@
-<img align="center" height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"/>
-<h1 align="left" style="border:none;">Daniel Agyei </h1>
-<p align="left">A Full-Stack Developer passionate about building modern, scalable web applications with clean, efficient code. From crafting responsive front-end designs to architecting robust back-end APIs, I bring ideas to life with cutting-edge technologies.</p>
+<div align="center">
+  <img height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
+</div>
+
+
+<h1 align="center" style="border:none;">Daniel Agyei </h1>
+<p align="center">A Full-Stack Developer passionate about building modern, scalable web applications with clean, efficient code. From crafting responsive front-end designs to architecting robust back-end APIs, I bring ideas to life with cutting-edge technologies.</p>
+
+###
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
+
+###
+
 
 <h2 align="left">Language and tools</h2>
 
@@ -32,38 +45,17 @@
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
 
-###
-
-<div><br/></div>
----
-
-## 🌍 Let’s Connect!  
-- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yourusername)  
-- **Portfolio**: [Visit My Website](https://yourportfolio.com)  
-- **Twitter**: [Follow Me](https://twitter.com/yourusername)  
-
----
 
 ###
 
-<h3 align="left">🔥   My Stats :</h3>
-
-###
-
+<h2 align="left">🧑‍💻 What I’m Working On </h2>
 <div align="left">
-  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 ###
-
-<div><br/></div>
-
-###
-
-<h2>🧑‍💻 What I’m Working On </h2>
 
 - **Developing full-stack applications** that solve real-world problems.  
 - Building **Next.js** projects with SSR and optimized performance.  
-- Exploring **TypeScript** to create type-safe and maintainable codebases. 
+- Exploring **TypeScript** to create type-safe and maintainable codebases.
 
 ###
+</div>

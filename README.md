@@ -64,5 +64,5 @@
 
 <p>I believe in writing code that's as clean as my workspace.<br/>
 And yes, coffee and music fuels my code! ☕ </p>
-<img  height="220" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
+<img  height="280" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
 </details>

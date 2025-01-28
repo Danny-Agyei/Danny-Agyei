@@ -8,7 +8,9 @@
 - 📊 Skilled in using **MongoDB** for NoSQL database management.
 - 🎯 Focused on continuous learning and staying updated with the latest web development trends.
 </div>
+
 ---
+
 ## 🧰  Language and tools
 
 <div align="left">

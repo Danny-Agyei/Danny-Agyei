@@ -9,7 +9,7 @@
 - 🎯 Focused on continuous learning and staying updated with the latest web development trends.
 </div>
 
-## Language and tools
+## 🧰  Language and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -47,3 +47,7 @@
 
 ###
 
+## 🧑‍💻 What I’m Working On  
+1. 🌟 **Developing full-stack applications** that solve real-world problems.  
+2. 🌐 Building **Next.js** projects with SSR and optimized performance.  
+3. 📚 Exploring **TypeScript** to create type-safe and maintainable codebases.  

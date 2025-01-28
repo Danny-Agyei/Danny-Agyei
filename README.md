@@ -5,15 +5,8 @@
 
 <div align="center">
 <h2>Hi👋, Welcome to My Code Playground 👾</h2>
-I’m Daniel, a Full-Stack Developer passionate about solving real-life problems through code. I build modern, scalable web applications from the ground up—starting with thoughtful planning and ending with clean, efficient solutions. Whether crafting responsive front-end designs or architecting robust back-end APIs, I bring ideas to life using cutting-edge technologies. 
+<p align="left">I’m Daniel, a Full-Stack Developer passionate about solving real-life problems through code. I build modern, scalable web applications from the ground up—starting with thoughtful planning and ending with clean, efficient solutions.</p>
 
-###
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="37" height="25" alt="linkedin logo"  />
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="37" height="25" alt="twitter logo"  />
-
-###
 
 
 <h2 align="left">🧰 Language and tools</h2>
@@ -47,9 +40,21 @@ I’m Daniel, a Full-Stack Developer passionate about solving real-life problems
 </div>
 
 
+<div align="left">
+## 🧑‍💻 About Me
+
+- ⚡ **Full-Stack Developer** with a focus on building modern web applications from the front-end to the back-end.
+- 🌐 Strong experience in **React**, **Next.js**, and **Express** for creating dynamic, server-rendered apps.
+- 🔥 Passionate about crafting clean, maintainable, and high-performing code using **TypeScript**.
+- 💻 Experience in building scalable **RESTful APIs** and **GraphQL APIs** with **Node.js** and **Express.js**.
+- 📊 Skilled in using **MongoDB** for NoSQL database management.
+- 🎯 Focused on continuous learning and staying updated with the latest web development trends.
+
+</div>
+
 ###
 
-<h2 align="left">🧑‍💻 What I’m Working On </h2>
+<h2 align="left">🌱 I'm currently learning</h2>
 <div align="left">
 
 ###

@@ -1,14 +1,16 @@
-<div align="center">
+<div align="center" style="border-radius:999px;">
   <img height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
 </div>
 
 
+
 <div align="center">
-<h2>Hi👋, Welcome to My Code Playground 👾</h2>
-<p align="left">I’m Daniel, a Full-Stack Developer passionate about solving real-life problems through code. I build modern, scalable web applications from the ground up—starting with thoughtful planning and ending with clean, efficient solutions.</p>
-
-
-
+<h1 style="border:none;margin-bottom:5px;">Hi👋, I'm Daniel Agyei!</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0976&center=true&width=435&lines=Full-Stack++Web+Developer;5%2B+Years+of+Coding+Experience;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
+</div
+</div>
+<hr/>
 <h2 align="left">🧰 Language and tools</h2>
 
 ###
@@ -39,9 +41,10 @@
   <img src="https://skillicons.dev/icons?i=express" height="30" alt="express logo"  />
 </div>
 
+<br/>
 
+<h2 align="left">🧑‍💻 About Me</h2>
 <div align="left">
-## 🧑‍💻 About Me
 
 - ⚡ **Full-Stack Developer** with a focus on building modern web applications from the front-end to the back-end.
 - 🌐 Strong experience in **React**, **Next.js**, and **Express** for creating dynamic, server-rendered apps.
@@ -52,7 +55,7 @@
 
 </div>
 
-###
+<br/>
 
 <h2 align="left">🌱 I'm currently learning</h2>
 <div align="left">

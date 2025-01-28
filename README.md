@@ -3,8 +3,9 @@
 </div>
 
 
-<h1 align="center" style="border:none;">Daniel Agyei </h1>
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0A81CC&center=true&width=435&lines=Full-Stack++Web+Developer;5%2B+Years+of+Proven+Expertise;Trusted+by+peers%2C+known+as+the+%22JavaScript+Maestro%22)](https://git.io/typing-svg)
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0976&center=true&width=435&lines=Full-Stack++Web+Developer;5%2B+Years+of+Coding+Experience;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
+</div
 
 ###
 
@@ -15,7 +16,7 @@
 ###
 
 
-<h2 align="left">Language and tools</h2>
+<h2 align="left">🧰 Language and tools</h2>
 
 ###
 

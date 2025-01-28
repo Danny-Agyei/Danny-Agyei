@@ -5,12 +5,12 @@
 
 
 <div align="center">
-<h1>Hi👋, I'm Daniel Agyei!
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0976&center=true&width=435&height=60&lines=Full-Stack++Web+Developer;5%2B+Years+of+Coding+Experience;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
-</h1>
+<h1>Hi👋, I'm Daniel Agyei!</h1>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0976&center=true&width=435&lines=Full-Stack++Web+Developer;5%2B+Years+of+Coding+Experience;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
+</div
 </div>
 <hr/>
-
 <h3 align="left" style="font-size:26px">🧰 Language and tools</h3>
 
 ###

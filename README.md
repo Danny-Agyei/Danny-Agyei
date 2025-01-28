@@ -1,9 +1,6 @@
-
+<img align="center" height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"/>
 <h1 align="left" style="border:none;">Daniel Agyei </h1>
 <p align="left">A Full-Stack Developer passionate about building modern, scalable web applications with clean, efficient code. From crafting responsive front-end designs to architecting robust back-end APIs, I bring ideas to life with cutting-edge technologies.</p>
-
-
-<img align="center" height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"/>
 
 <h2 align="left">Language and tools</h2>
 

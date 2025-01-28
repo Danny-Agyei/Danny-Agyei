@@ -61,7 +61,7 @@
 
 <details open>
 <summary> <h2> 🌟 Fun Fact </h2> </summary>
-<img height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
 
-I believe in writing code that's as clean as my workspace. And yes, coffee fuels my code! ☕ 
+<p>I believe in writing code that's as clean as my workspace. And yes, coffee and music fuels my code! ☕ </p>
+<img  height="220" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
 </details>

@@ -1,4 +1,4 @@
-# Hi, I'm Daniel👋!
+# Hi there, I'm Daniel👋!
 
 
 - ⚡ **Full-Stack Developer** with a focus on building modern web applications from the front-end to the back-end.
@@ -50,4 +50,13 @@
 ## 🧑‍💻 What I’m Working On  
 1. 🌟 **Developing full-stack applications** that solve real-world problems.  
 2. 🌐 Building **Next.js** projects with SSR and optimized performance.  
-3. 📚 Exploring **TypeScript** to create type-safe and maintainable codebases.  
+3. 📚 Exploring **TypeScript** to create type-safe and maintainable codebases.
+
+### 🌟 Fun Fact  
+
+I believe in writing code that's as clean as my workspace. And yes, coffee fuels my code! ☕  
+
+## 💬 Feel free to connect with me:  
+- **LinkedIn**: [Connect Here](https://linkedin.com/in/yourusername)  
+- **Portfolio**: [Visit My Website](https://yourportfolio.com)  
+- **Twitter**: [Follow Me](https://twitter.com/yourusername)  

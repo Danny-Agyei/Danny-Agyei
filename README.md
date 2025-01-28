@@ -4,6 +4,8 @@
 
 <p align="left">A Full-Stack Developer passionate about building modern, scalable web applications with clean, efficient code. From crafting responsive front-end designs to architecting robust back-end APIs, I bring ideas to life with cutting-edge technologies.</p>
 
+<div><br/></div>
+
 <h2 align="left">Languages & Tools</h2>
 
 ###
@@ -38,6 +40,10 @@
 
 ###
 
+<div><br/></div>
+
+###
+
 <h2> 📈 GitHub Stats  </h2>
 
 
@@ -45,6 +51,8 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Danny-Agyei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danny-Agyei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
+
+<div><br/></div>
 
 ###
 

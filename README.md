@@ -52,11 +52,16 @@
 2. 🌐 Building **Next.js** projects with SSR and optimized performance.  
 3. 📚 Exploring **TypeScript** to create type-safe and maintainable codebases.
 
-### 🌟 Fun Fact  
-
-I believe in writing code that's as clean as my workspace. And yes, coffee fuels my code! ☕  
 
 ## 🌐 Let's Connect:  
 - **LinkedIn**: [Connect Here](https://linkedin.com/in/yourusername)  
 - **Portfolio**: [Visit My Website](https://yourportfolio.com)  
 - **Twitter**: [Follow Me](https://x.com/@DankCodeGenius)  
+
+
+<details open>
+<summary> <h2> 🌟 Fun Fact </h2> </summary>
+<img height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
+
+I believe in writing code that's as clean as my workspace. And yes, coffee fuels my code! ☕ 
+</details>

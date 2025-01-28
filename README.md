@@ -4,7 +4,7 @@
 
 
 <h1 align="center" style="border:none;">Daniel Agyei </h1>
-<p align="center">A Full-Stack Developer passionate about building modern, scalable web applications with clean, efficient code. From crafting responsive front-end designs to architecting robust back-end APIs, I bring ideas to life with cutting-edge technologies.</p>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=0A81CC&center=true&width=435&lines=Full-Stack++Web+Developer;5%2B+Years+of+Proven+Expertise;Trusted+by+peers%2C+known+as+the+%22JavaScript+Maestro%22)](https://git.io/typing-svg)
 
 ###
 

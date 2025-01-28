@@ -1,12 +1,11 @@
-<h1 align="left">Hi there 👋, I'm Daniel! </h1>
 
-###
+<img align="center" style="width:100%; height:auto;" height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"/>
 
+<h1 align="left" style="border:none;">Daniel Agyei </h1>
 <p align="left">A Full-Stack Developer passionate about building modern, scalable web applications with clean, efficient code. From crafting responsive front-end designs to architecting robust back-end APIs, I bring ideas to life with cutting-edge technologies.</p>
 
-<div><br/></div>
 
-<h2 align="left">Languages & Tools</h2>
+<h2 align="left">🛠 Language and tools</h2>
 
 ###
 
@@ -41,16 +40,26 @@
 ###
 
 <div><br/></div>
+---
+
+## 🌍 Let’s Connect!  
+- **LinkedIn**: [Connect with me](https://www.linkedin.com/in/yourusername)  
+- **Portfolio**: [Visit My Website](https://yourportfolio.com)  
+- **Twitter**: [Follow Me](https://twitter.com/yourusername)  
+
+---
 
 ###
 
-<h2> 📈 GitHub Stats  </h2>
+<h3 align="left">🔥   My Stats :</h3>
 
+###
 
 <div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Danny-Agyei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danny-Agyei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
+
+###
 
 <div><br/></div>
 

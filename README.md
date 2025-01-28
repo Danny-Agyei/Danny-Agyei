@@ -5,13 +5,13 @@
 
 
 <div align="center">
-<h1 style="border:none;margin-bottom:5px;">Hi👋, I'm Daniel Agyei!</h1>
+<h3 style="font-size:28px">Hi👋, I'm Daniel Agyei!</h3>
 <div align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0976&center=true&width=435&lines=Full-Stack++Web+Developer;5%2B+Years+of+Coding+Experience;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
 </div
 </div>
 <hr/>
-<h2 align="left">🧰 Language and tools</h2>
+<h3 align="left" style="font-size:26px">🧰 Language and tools</h3>
 
 ###
 
@@ -43,7 +43,7 @@
 
 <br/>
 
-<h2 align="left">🧑‍💻 About Me</h2>
+<h3 align="left" style="font-size:26px;">🧑‍💻 About Me</h3>
 <div align="left">
 
 - ⚡ **Full-Stack Developer** with a focus on building modern web applications from the front-end to the back-end.
@@ -52,19 +52,4 @@
 - 💻 Experience in building scalable **RESTful APIs** and **GraphQL APIs** with **Node.js** and **Express.js**.
 - 📊 Skilled in using **MongoDB** for NoSQL database management.
 - 🎯 Focused on continuous learning and staying updated with the latest web development trends.
-
-</div>
-
-<br/>
-
-<h2 align="left">🌱 I'm currently learning</h2>
-<div align="left">
-
-###
-
-- **Developing full-stack applications** that solve real-world problems.  
-- Building **Next.js** projects with SSR and optimized performance.  
-- Exploring **TypeScript** to create type-safe and maintainable codebases.
-
-###
 </div>

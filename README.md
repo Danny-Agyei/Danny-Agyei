@@ -8,7 +8,7 @@
 - 📊 Skilled in using **MongoDB** for NoSQL database management.
 - 🎯 Focused on continuous learning and staying updated with the latest web development trends.
 </div>
-
+---
 ## 🧰  Language and tools
 
 <div align="left">
@@ -56,7 +56,7 @@
 
 I believe in writing code that's as clean as my workspace. And yes, coffee fuels my code! ☕  
 
-## 💬 Feel free to connect with me:  
+## 🌐 Let's Connect:  
 - **LinkedIn**: [Connect Here](https://linkedin.com/in/yourusername)  
 - **Portfolio**: [Visit My Website](https://yourportfolio.com)  
-- **Twitter**: [Follow Me](https://twitter.com/yourusername)  
+- **Twitter**: [Follow Me](https://x.com/@DankCodeGenius)  

@@ -1,19 +1,15 @@
-<div align="center" style="border-radius:999px;">
-  <img height="150" src="https://raw.githubusercontent.com/kvssankar/kvssankar/main/programmer.gif"  />
+# Hi, I'm Daniel👋!
+
+
+- ⚡ **Full-Stack Developer** with a focus on building modern web applications from the front-end to the back-end.
+- 🌐 Strong experience in **React**, **Next.js**, and **Express** for creating dynamic, server-rendered apps.
+- 🔥 Passionate about crafting clean, maintainable, and high-performing code using **TypeScript**.
+- 💻 Experience in building scalable **RESTful APIs** and **GraphQL APIs** with **Node.js** and **Express.js**.
+- 📊 Skilled in using **MongoDB** for NoSQL database management.
+- 🎯 Focused on continuous learning and staying updated with the latest web development trends.
 </div>
 
-
-
-<div align="center">
-<h1>Hi👋, I'm Daniel Agyei!</h1>
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&pause=1000&color=FF0976&center=true&width=435&lines=Full-Stack++Web+Developer;5%2B+Years+of+Coding+Experience;Always+learning%2C+always+innovating." alt="Typing SVG" /></a>
-</div
-</div>
-<hr/>
-<h3 align="left" style="font-size:26px">🧰 Language and tools</h3>
-
-###
+## Language and tools
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
@@ -43,13 +39,10 @@
 
 <br/>
 
-<h3 align="left" style="font-size:26px;">🧑‍💻 About Me</h3>
-<div align="left">
-
-- ⚡ **Full-Stack Developer** with a focus on building modern web applications from the front-end to the back-end.
-- 🌐 Strong experience in **React**, **Next.js**, and **Express** for creating dynamic, server-rendered apps.
-- 🔥 Passionate about crafting clean, maintainable, and high-performing code using **TypeScript**.
-- 💻 Experience in building scalable **RESTful APIs** and **GraphQL APIs** with **Node.js** and **Express.js**.
-- 📊 Skilled in using **MongoDB** for NoSQL database management.
-- 🎯 Focused on continuous learning and staying updated with the latest web development trends.
+## 📊 Github Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Danny-Agyei&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Danny-Agyei&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
+###
